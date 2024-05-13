@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Uses a pair of inverters and a pair of AND gates
 
 ## How to test
 
-Explain how to use your project
+Use the DIP switches to input a secret code - then the display will show a letter. Basic test in order to learn more about the TT process
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Not needed
